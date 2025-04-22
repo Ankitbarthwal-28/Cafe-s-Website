@@ -285,8 +285,8 @@ document.addEventListener('DOMContentLoaded', function() {
             { name: 'Alfredo Macaroni', price: '₹ 595', description: 'Pasta in a creamy Alfredo sauce with Parmesan', img: 'images/am.jpg', dietary: ['vegetarian'] }
         ],
         desserts: [
-            { name: 'Blueberry Muffin', price: '₹ 195', description: 'Soft muffin bursting with fresh blueberries', img: 'images/bm.jpg', dietary: ['vegetarian'] },
-            { name: 'Brownie with Vanilla Ice Cream', price: '₹ 225', description: 'Warm chocolate brownie served with vanilla ice cream', img: 'images/bv.jpg', dietary: ['vegetarian'] },
+            { name: 'Blueberry Muffin', price: '₹ 195', description: 'Soft muffin bursting with fresh blueberries', img: 'images/BM.jpg', dietary: ['vegetarian'] },
+            { name: 'Brownie with Vanilla Ice Cream', price: '₹ 225', description: 'Warm chocolate brownie served with vanilla ice cream', img: 'images/BV.jpg', dietary: ['vegetarian'] },
             { name: 'Cannoli', price: '₹ 475', description: 'Crispy pastry shell filled with sweet ricotta cream', img: 'images/ca.jpg', dietary: ['vegetarian'] }
         ]
     };
